@@ -28,3 +28,13 @@ maybe('Challenge - 2 : my countEvenNumbers function can count even numbers in ar
     ]
     expect(countEvenNumbers(numbers)).toBe(9);
 });
+
+// function is_an_even_number(array){
+// 	var count = 0;
+// 	for(let i = 0 ; i < array.length; i++) {
+// 		if (array[i] % 2 === 0){
+// 			count++;
+// 		}
+// 	}
+// 	return count;
+// }
